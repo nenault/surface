@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f751c7b5.css",
+    "main.js": "/static/js/main.b3259dd6.js",
+    "static/js/787.6ece9eba.chunk.js": "/static/js/787.6ece9eba.chunk.js",
+    "static/media/BZZZ VRRR ZWIIIP v 65 def def 4.mp4": "/static/media/BZZZ VRRR ZWIIIP v 65 def def 4.fb3bc44169a1017c1aae.mp4",
+    "static/media/circles2.gif": "/static/media/circles2.5e6d9078432b3cd7689e.gif",
+    "static/media/surface6_hud_v2.png": "/static/media/surface6_hud_v2.c0ef92ea38757ff620f3.png",
+    "static/media/codes.gif": "/static/media/codes.9a5405eb678a8a202cd8.gif",
+    "static/media/wave.gif": "/static/media/wave.a43e859759ef2fe65a76.gif",
+    "static/media/second-green.png": "/static/media/second-green.f770324f313f9f685dc4.png",
+    "static/media/second-red.png": "/static/media/second-red.9d5664657f26fe63a915.png",
+    "static/media/third-green.png": "/static/media/third-green.be14c370792a03c48fda.png",
+    "static/media/third-red.png": "/static/media/third-red.f25a13467cbc0f381bbf.png",
+    "index.html": "/index.html",
+    "main.f751c7b5.css.map": "/static/css/main.f751c7b5.css.map",
+    "main.b3259dd6.js.map": "/static/js/main.b3259dd6.js.map",
+    "787.6ece9eba.chunk.js.map": "/static/js/787.6ece9eba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f751c7b5.css",
+    "static/js/main.b3259dd6.js"
+  ]
+}
